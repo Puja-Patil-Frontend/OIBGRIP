@@ -1,1 +1,53 @@
+h1{
+    color:rgb(35, 31, 252);
+    text-align: center;
+}
 
+div{
+	background-color: #5c8df0;
+	margin: 50px;
+	width: 350px;
+	height: 450px;
+	margin: 0 auto;			/* horizontally centreing an element */
+	border-radius: 20px;
+	padding: 10px;
+}
+
+header{
+	background-color: #f1f8f8;
+	width: 330px;
+	height: 50px;
+	border-radius: 20px;
+	margin: 0 auto;	
+	font-size: xx-large;
+	color: #000000;
+	text-align: center;
+
+}
+
+table{
+	background-color: #FFFFFF;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-radius: 20px;
+}
+
+td{
+	width: 110px;
+	height: 60px;
+	text-align: center;
+	font-size: xx-large;
+
+}
+
+.red{
+	color: #c22f0b;
+}
+
+td:active{
+	background-color: #ff7e5e;
+	border-radius: 20px;
+    cursor: pointer;
+}
